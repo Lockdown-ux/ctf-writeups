@@ -35,6 +35,4 @@ picoCTF{y0ur_fl4g_h3r3}
 
 ```
 
-## 💡 Key Takeaways & Mitigation
-* **What I learned:** [e.g., Always sanitize user input before passing it to SQL queries.]
-* **Remediation:** Implement prepared statements and parameterized queries to prevent this flaw.
+
