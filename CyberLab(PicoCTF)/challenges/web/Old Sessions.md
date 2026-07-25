@@ -1,15 +1,12 @@
 # CyberLab(picoCTF) Writeup [Old Sessions]
 
-## 📝 Challenge Information
+## Challenge 
 * **Category:** Web Exploitation
 * **Points:** [100]
 * **Difficulty:** [Easy ]
 * **Tags:** #web #cookies
-
-## 🎯 Objective
-Find the hidden flag.
-
-## Solution Steps
+  
+## Solution 
 1. **Step 1:** Open the target URL and navigate to the login page.You shoul seeing this:
  <img width="745" height="476" alt="image" src="https://github.com/user-attachments/assets/978519b4-cbd8-4231-8e46-ef89db9c70e3" />
 
